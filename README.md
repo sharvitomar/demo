@@ -1,5 +1,5 @@
 # demo
 testing purpose
-hello this is from SB.
+hello from SB.
 This is a line from RStudio
 Using git tab
